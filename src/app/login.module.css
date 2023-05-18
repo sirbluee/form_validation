@@ -1,0 +1,32 @@
+.login-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    background-color: #fff;
+  }
+  
+  .login-form input {
+    width: 100%;
+    padding: .5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    outline: none;
+  }
+  
+  .login-form button {
+    background-color: #000;
+    color: #fff;
+    padding: .5rem 1rem;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .login-form button:hover {
+    background-color: #111;
+  }
+  
+  .login-form .error {
+    color: red;
+  }
+  
